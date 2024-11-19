@@ -6,4 +6,7 @@
    3.2. Pascal
    3.3. C dan C++
    3.4. Java
-4. 
+
+## Variable dan Tipe Data
+1. Variable adalah suatu simbol atau lambang yang mempunyai nilai. Dalam pemrograman, variable termasuk pengenal (identifier).
+2. Tipe Data : Setiap data yang digunakan, baik yang disimpan dalam variable, maupun disimpan bukan dalam sebuah variable, struktur penyimpanannya (struktur datannya) mempunyai tipe tertentu.
